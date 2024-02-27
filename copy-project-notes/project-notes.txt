@@ -1,0 +1,111 @@
+
+HEX Base Colors
+Bright Orange: #FF6A13
+Pink: #FF4B82
+Turquoise: #00B8A9
+Black: #000000
+White: #FFFFFF
+
+
+Homepage Landing Page - Content
+
+Welcome/Overview Paragraphs
+
+Welcome to The Beat Kitchen Diner, where every meal is a symphony of flavor! 
+Located at 12345 Water Street in the heart of St. John's, NL, our retro-inspired 
+diner invites you to step back in time to the groovy vibes of the 60s and 70s. 
+
+From our funky appetizers to our soulful entrees and refreshing drinks, we serve 
+up a menu that's as vibrant as the era it's inspired by. Whether you're craving 
+a classic burger with a twist or looking to sip on a retro cocktail, our friendly 
+staff is here to make your dining experience unforgettable. 
+
+Come join us at The Beat Kitchen Diner and let the good times roll!
+
+Homepage Review/Testimonals 
+
+"5 stars all the way! The Beat Kitchen Diner is a hidden gem in St. John's. 
+From the moment you step inside, you're greeted with a warm and vibrant atmosphere 
+that sets the tone for an incredible dining experience. The menu offers a fantastic 
+variety of options, from classic comfort food to creative twists on nostalgic favorites.
+I had the pleasure of trying the Groovy Guac 'n' Roll and the Funky Monkey Quesadilla, 
+both of which were packed with flavor and perfectly executed. The staff were friendly, 
+attentive, and knowledgeable about the menu. Can't wait to come back and try more of 
+their delicious offerings!"
+
+Read More... (Add rest of testimonials to About page)
+
+ABOUT PAGE  
+
+About The Beat Kitchen Diner
+
+Welcome to The Beat Kitchen Diner, where the flavors of nostalgia meet the groovy vibes of the 60s and 70s!
+Nestled in the heart of Downtown St. John's, NL, The Beat Kitchen Diner is a culinary haven crafted by business 
+partners and chefs Brenda, Ethan, and Tina.
+
+Meet the Chefs:
+
+Brenda: With a passion for bold flavors and a knack for reinventing classic dishes, Brenda brings her culinary expertise
+to The Beat Kitchen Diner. Her love for cooking began at an early age, inspired by her grandmother's recipes and a deep
+appreciation for comfort food with a twist.
+
+Ethan: A culinary virtuoso with a flair for creativity, Ethan brings his innovative approach to every dish he creates. 
+As the winner of Next Level Chef Junior, Ethan's culinary skills are already making waves, and his future in the industry 
+looks incredibly promising. He is known as one of the best burger makers in Canada!
+
+Tina: A master of balance and precision, Tina's culinary skills are matched only by her unwavering dedication to quality
+and craftsmanship. With years of experience in both savory and pastry kitchens, Tina brings a unique perspective to 
+The Beat Kitchen Diner, infusing each dish with her signature style and attention to detail. 
+
+Our Vision:
+
+At The Beat Kitchen Diner, we believe that great food is more than just sustenance—it's an experience. Drawing inspiration from
+the music and movies of the 60s and 70s, we strive to create a dining atmosphere that's as vibrant and memorable as the era that
+inspired it. From our funky decor to our carefully crafted menu, every aspect of The Beat Kitchen Diner is designed to transport 
+you back in time while tantalizing your taste buds with modern twists on nostalgic favorites.
+
+Culinary Tourism Hotspot:
+
+Located in Downtown St. John's, The Beat Kitchen Diner is at the epicenter of culinary innovation and cultural exploration. 
+As a hub for culinary tourism, Downtown St. John's offers visitors a diverse array of dining options, from cozy cafes and 
+gastropubs to fine dining establishments and trendy eateries. With its eclectic mix of flavors, vibrant street art, and 
+historic charm, Downtown St. John's is a must-visit destination for food enthusiasts seeking to experience the rich tapestry
+of Newfoundland cuisine and hospitality.
+
+Our Promise:
+
+When you dine at The Beat Kitchen Diner, you can expect nothing less than exceptional food, friendly service, and a dining
+experience that leaves you craving more. Whether you're stopping by for a quick bite or settling in for a leisurely meal
+with friends and family, we invite you to join us on a culinary journey unlike any other. So come on in, take a seat, and 
+let the good times roll at The Beat Kitchen Diner!
+
+REVIEWS
+
+Review by John D.:
+"What a gem of a diner! The Beat Kitchen never fails to impress. 
+From the moment you walk in, you're greeted with funky tunes and a lively 
+atmosphere that takes you back in time. The food here is out of this world. 
+I ordered the Psychedelic Veggie Wrap and it was hands down the best wrap 
+I've ever had. The portion sizes are generous, and the presentation is superb. 
+And let's not forget about the drinks! The Disco Diva Daiquiri was a hit with 
+its refreshing blend of flavors. A must-visit spot for anyone looking for great
+food, fun vibes, and excellent service!"
+
+Review by Emily T.:
+"What a delightful dining experience! The Beat Kitchen Diner exceeded all expectations. 
+The menu is filled with creative and delicious options that cater to every palate. 
+I couldn't resist trying the Disco Inferno Shrimp Scampi, and it was absolute 
+perfection—succulent shrimp cooked to perfection in a garlic butter sauce. 
+The ambiance is so inviting, with funky decor and a playlist that transports 
+you back in time. The staff were attentive and friendly, making sure our dining
+experience was unforgettable. I'll definitely be returning soon to explore more 
+of their fantastic menu!"
+
+Review by Sarah H.:
+"Absolutely loved my experience at The Beat Kitchen Diner! 
+The atmosphere is so fun and nostalgic, and the food is simply fantastic. 
+I tried the Funky Feta Fritters and the Stairway to Sirloin, both of which 
+were bursting with flavor and cooked to perfection. The staff were incredibly 
+friendly and attentive, making sure our dining experience was top-notch. 
+Can't wait to come back and try more of their delicious menu items!"
+

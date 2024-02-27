@@ -1,0 +1,133 @@
+
+.menuBackground {
+    
+    background-image: url('../images/pasta.png');
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1024px;
+    flex-wrap: wrap;   
+}
+
+.theBeatBox {
+    
+    min-height: 800px;
+    padding-top: 20px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menuBox {
+    
+    min-height: 800px;
+    padding-top: 180px;
+    justify-content: space-evenly;
+    display: flex;   
+    flex-wrap: wrap;
+}
+
+.menuBoxBlue{
+    min-height: 800px;
+    padding-top: 180px;
+    background: rgba(1, 255, 228, 0.30);
+    justify-content: space-evenly;
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.menuBoxPink{
+    min-height: 800px;
+    padding-top: 180px;
+    background: #e5e5e5;
+    justify-content:space-evenly;
+    display: flex;   
+    flex-wrap: wrap;      
+}
+
+.itemBox {
+    width: 800px;
+    min-height: 550px;
+    font-family: "Inter";
+    font-size: 20px;
+    color: black;
+    padding-left: 80px;  
+    float: left;
+    justify-self: center;
+    flex-wrap: wrap;  
+}
+
+.itemName {
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    color: #FF1F01;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.calories {
+    color: #FF0071;
+    font-weight: 900;
+}
+
+.price {
+    color: #FF1F01;
+    font-weight: 900;
+}
+
+#theBeatMenuBox {
+    color: #FF0071;
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 70px;
+    float: left;
+    min-width: 550px;
+    max-width: 800px;
+    min-height: 600px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.picBeatBox {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-right: 50px;
+    float: left;
+    animation: fade-in linear forwards;
+    animation-timeline: view(830px 0px);
+    transform-origin: top;
+}
+
+.inter {
+    font-family: "Inter";
+    font-size: 50px;
+    color:#FF0071;
+    font-weight: 500;
+}
+
+.interSmall {
+    font-family: "Inter";
+    font-size: 25px;
+    color: #324A6D;
+    font-weight: 400;
+    line-height: 200%;
+}
+
+.yellowtailHeading {
+    font-family: "yellowtail";
+    font-size: 70px;
+    color:#FF0071;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: -170px;    
+}
+
+@media screen and (max-width: 1000px) {
+    .yellowtailHeading {
+        margin-bottom: -240px;
+    }
+}

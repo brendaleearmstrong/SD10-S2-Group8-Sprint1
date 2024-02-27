@@ -1,0 +1,447 @@
+.container {
+    
+    height: auto;
+    justify-content: center;
+    margin-top: -10px;
+    margin-left: -10px;
+    
+}
+
+.hero {
+    
+    background-image: url('../images/hero-image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1024px;
+    flex-wrap: wrap;   
+}
+
+.heroTxt {
+    color: white;
+    font-family: "Inter";
+    font-size: 60pt;
+    font-weight: 700;
+    opacity: initial;
+    text-shadow:rgb(56, 56, 56) 0px 5px 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.whiteBox {
+    width: 601px;
+    height: 399px;
+    background-color: rgb(255, 255, 255, 0.25);
+    position: absolute;
+    margin-top: 570px;
+    margin-left: 50px;
+}
+
+.btnBox {
+    width: 601px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 111px;
+}
+
+.logoBox {
+    margin-left: 32px;
+    margin-top: 10px;
+    width: 294px;
+    height: 253px;
+    float: left;
+    z-index: 20000;
+    position: absolute;
+}
+
+.navBar {
+    padding-top: 6px;
+    z-index: 1;
+    padding-left: 505px;
+    height: 60px;
+    
+    background-color: rgba(103, 103, 103, 0.25);
+    
+    
+}
+
+@media screen and (max-width: 480px) {
+    .navBar {
+        flex-direction: column;
+    }
+}
+
+.navTxt {
+    margin-top: 10px;
+    font-family: "Inter";
+    font-size: 20pt;
+    font-weight: 600;
+    color: #ffffff;
+    margin-right: 150px;
+    float: left;
+    flex-wrap: nowrap;
+    text-decoration: none;
+    text-shadow: rgb(91, 90, 90) 0px 3px 5px;
+}
+
+.navTxt:hover {
+    color: #FF0071;
+}
+
+.blueBtn {
+    border: none;
+    background-color: #01ffe4;
+    font-family: "Inter";
+    font-size: 16pt;
+    font-weight: 400;
+    width: 189px;
+    height: 54px;
+    cursor: pointer;
+    position: absolute;
+}
+
+.whiteBtn {
+    border: none;
+    background-color: white;
+    color: #FF0071;
+    font-family: "Inter";
+    font-size: 16pt;
+    font-weight: 400;
+    width: 189px;
+    height: 54px;
+    cursor: pointer;
+}
+
+.infoBoxWhite {
+   
+    background-color: white;
+    
+    min-height: 650px;
+    padding-top: 20px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imgBoxLanding {
+    background-position: center;
+    background-size: cover;
+    min-height: 1000px;
+    background-image: url(../images/the-beat-kitchen-interior-Photoroom.png);
+    background-repeat: no-repeat;
+    
+    
+}
+
+.infoBoxBlue {
+    background: rgba(1, 255, 228, 0.30);
+    
+    min-height: 1000px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+.infoBoxRed {
+    background-image: url(../images/infoBoxRed.png);
+    background-repeat: repeat;
+    
+    min-height: 830px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+.titleBox1 {
+    color: #FF0071;
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 50px;
+    float: left;
+    width: 533px;
+    
+    margin-left: 50px;
+    animation: fade-in linear forwards;
+    animation-timeline: view(830px 0px);
+    transform-origin: top;
+}
+
+.infoBoxTxt {
+    color: black;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 200%;
+    margin-top: -40px;
+}
+
+.picBox {
+    margin-top: 50px;
+    width: auto;
+    height: auto;
+    margin-right: 50px;
+    float: left;
+    animation: fade-in linear forwards;
+    animation-timeline: view(830px 0px);
+    transform-origin: top;
+}
+
+@keyframes fade-in {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.titleBox2 {
+    margin-left: 50px;
+    color: #FF0071;
+    font-family: "Yellowtail";
+    font-size: 60px;
+    font-weight: 700;
+    width: 533px;
+   
+    float: left;
+    justify-content: center;
+    
+}
+
+.titleBox3 {
+    
+    
+    margin-top: 200px;
+    padding-left: 75px;
+    padding-right: 50px;
+    color: #FF0071;
+    font-family: "Yellowtail";
+    font-size: 60px;
+    font-weight: 700;
+    width: 533px;
+    justify-content: center;
+    
+    float: left;
+}
+
+.title3 {
+    margin-top: -70px;
+    color: #122534;
+    font-family: "Inter";
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 100px;
+}
+
+.title4 {
+    font-family: "Yellowtail";
+    color: #FF0071;
+    font-size: 60px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.picBox2 {
+    padding-top: 50px;
+    image-rendering: optimizeQuality;
+    float: left;
+   
+    
+    
+   
+   
+}
+
+.footerBox {
+    background-color: #122534;
+    padding-bottom: 50px;
+    min-height: 300px;
+    
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.specialsBox {
+    
+    margin-top: 200px;
+    background-color: white;
+    width: 396px;
+    height: 550px;
+    margin-right: 20px;
+}
+
+.specialsBoxFiller {
+    float: left;
+    margin-top: 100px;
+    width: 20px;
+    height: 359px;
+}
+
+.specialsPics {
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 346px;
+    height: 250px;
+}
+
+.specialsDescBox {
+    width: 346px;
+    height: 170px;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.specialsTxt {
+    font-family: "Inter";
+    color: #181818;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.specialsPrice {
+    color: #122534;
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 32px;
+    float: left;
+}
+
+.specialsOrder, .specialsOrder:visited{
+    text-decoration: none;
+    margin-bottom: 25px;
+    width: 346px;
+    height: 50px;
+    color: #FF0071;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+}
+
+.redBoxTxt {
+    color: white;
+    text-align: center;
+    font-family: "Yellowtail";
+    font-size: 80px;
+    font-weight: 500;
+    margin-bottom: -200px;
+    
+   
+}
+
+.footerLogo {
+    width: 225px;
+    height: 258px;
+    float: left;
+    
+    margin-top: 25px;
+}
+
+.footerAddr {
+    margin-top: 30px;
+    float: left;
+    color: #FF0071;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 200%;
+    text-align: center;
+    
+    width:300px;
+    height: 225px;
+}
+
+.footerHours {
+    margin-top: 30px;
+    color: #e1a634;
+    font-family: "Inter";
+    width: 400px;
+    height: 225px;
+    float: left;
+    text-align: center;
+    
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.footerUnderlined {
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+.footerSocial {
+    float: left;
+    width: 25px;
+    height: 25px;
+    margin-right: 60px;
+}
+
+.footerContact {
+    margin-top: 30px;
+    
+    float: left;
+    width: 300px;
+    color: #01ffe4;
+    font-family: "Inter";
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.footerCopyright {
+    margin-top: -30px;
+    background-color: #122534;
+    text-align: center;
+   
+    height: 100px;
+    color: #01ffe4;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.viewMore {
+    color: #FF0071;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.viewMore:visited {
+    color: #FF0071;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.blueBtn:focus, .blueBtn:active {
+    background-color:#008a7c;
+}
+
+.whiteBtn:focus, .whiteBtn:active {
+    background-color: rgb(141, 141, 141);
+    color: #aa004d;
+}
+
+.footerSocial:hover {
+    filter: brightness(0) saturate(100%) invert(90%) sepia(14%) saturate(5868%) hue-rotate(333deg) brightness(94%) contrast(87%);
+}
+
+.footerEmail, .footerEmail:visited {
+    text-decoration: none;
+    color: #01ffe4;
+}
+
+/*ABOUT PAGE*/
+
+.heroAbout {
+    
+    background-image: url("../images/the-beat-kitchen-exterior.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1024px;
+    flex-wrap: wrap;   
+}
