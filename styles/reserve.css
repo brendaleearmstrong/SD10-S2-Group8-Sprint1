@@ -1,0 +1,86 @@
+.heroReserve {
+    min-width: 1865px;
+    min-height: 1024px;
+    background-image: url(../images/banner-reserve.png);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.infoBoxRes {
+    margin-top: -100px;
+    min-width: 1865px;
+    min-height: 375px;
+    color: #FF0071;
+    background-color: rgba(1, 255, 228, 0.18);
+    font-family: "Yellowtail";
+    text-align: center;
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 150%;
+    padding-bottom: 20px;
+}
+
+.resBoxTxt {
+    margin-top: -100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+    color: #122534;
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.reservationBox {
+    background-color: white;
+    min-width: 1865px;
+    min-height: 1865px;
+    color: #FF0071;
+    font-family: "Inter";
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.custInfoBox {
+    min-width: 640px;
+    max-width: 1000px;
+    height: auto;
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.custInput {
+    color:#FF0071   ;
+    min-width: 700px;
+    height: 80px;
+    border: #FF0071 solid 1px;
+    font-size: 35px;
+    font-family: "Inter";
+}
+
+.mapBox {
+    width: 800px;
+    height: 800px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 150px;
+    border: #FF0071 3px solid;
+}
+
+.blueBtnSubmit {
+    margin-top: 50pxs;
+    border: none;
+    background-color: #01ffe4;
+    font-family: "Inter";
+    font-size: 30pt;
+    font-weight: 500;
+    width: 250px;
+    height: 80px;
+    cursor: pointer;
+}

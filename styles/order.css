@@ -1,0 +1,186 @@
+.custBox {
+    background-color: rgba(1, 255, 228, 0.30);
+    min-height: 300px;
+    color: #FF0071;
+    font-family: "Yellowtail";
+    font-size: 60px;
+    justify-content: center;
+    display: flex;   
+    flex-wrap: nowrap;
+    justify-self: center;
+}
+
+.orderTitleBox {
+    background-color: rgba(1, 255, 228, 0.30);
+    height: 90px;
+    text-align: center;
+    color: #FF0071;
+    font-family: "Yellowtail";
+    font-size: 60px;
+
+}
+
+.custInfoLabel {
+    text-align: left;
+    color: #FF0071;
+    font-family: "Inter";
+    font-size: 30px;
+    
+    font-weight: 700;
+    white-space-collapse: preserve;
+    
+}
+
+.custInfoBox {
+    
+    justify-content: center;
+    min-width: 100px;
+    
+    display: flex;   
+    flex-wrap: wrap;
+    justify-self: center;
+}
+
+.infoInput {
+    
+    border: #FF0071 3px solid;
+    width: 400px;
+    height: 50px;
+    font-size: 35px;
+}
+
+.menuBox {
+
+    font-family: "Inter";
+    display: flex;   
+    flex-wrap: nowrap;
+    justify-self: center;
+}
+
+.catBox {
+    padding-left: 100px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.catTitle {
+    font-family: "Yellowtail";
+    font-size: 40px;
+    color: #FF0071; 
+}
+
+.itemBox {
+    
+    justify-self: left;
+    width: 380px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 700;
+    
+    flex-wrap: nowrap;
+}
+
+.priceQuantBox{
+
+    float: left;
+    width: 220px;
+    min-height: 200px;
+    padding-top: 55px;
+    padding-right: 100px;
+    font-weight: 700;
+
+}
+
+
+.quantBox {
+    float: left;
+    width: 100px;
+    margin-right: 20px;
+ 
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 700;
+    padding-top: 18px;
+ 
+    
+}
+
+.priceBox {
+    float: left;
+    width: 90px;
+   
+    
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: 700;
+    
+
+}
+
+.quantInput {
+    font-family: "Inter";
+    font-size: 20px;
+    width: 60px;
+    height: 25px;
+    
+    
+    border: #FF0071 2px solid;
+    margin-left: 15px;
+    margin-bottom: 13px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+
+
+.priceTitle {
+    text-align: end;
+    font-family: "Inter";
+    color: #FF0071;
+    font-weight: 700;
+    font-size: 30px;
+    width: 250px;
+    height: 30px;
+    padding-top: 30px;
+    
+    display: inline;
+    float: right;
+    flex-wrap: nowrap;
+    white-space-collapse: preserve;
+}
+
+.blueBtnSubmit {
+    margin-top: 50pxs;
+    border: none;
+    background-color: #01ffe4;
+    font-family: "Inter";
+    font-size: 30px;
+    font-weight: 700;
+    width: 150px;
+    height: 70px;
+    cursor: pointer;
+}
+
+.submitBox {
+    
+    height: 200px;
+    flex-wrap: nowrap;
+    justify-self: center;
+    justify-content: center;
+    display: flex;
+}
+
+.totalBox {
+    padding-top: 25px;
+    padding-bottom: 20px;
+    background-color: rgba(1, 255, 228, 0.30);
+    color: #FF0071;
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    
+}
